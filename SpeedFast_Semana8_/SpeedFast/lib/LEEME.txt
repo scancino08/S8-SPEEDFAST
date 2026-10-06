@@ -1,0 +1,2 @@
+Coloque aquí mysql-connector-j-X.Y.Z.jar (descargable desde https://dev.mysql.com/downloads/connector/j/)
+y agréguelo en IntelliJ: File > Project Structure > Modules > Dependencies > + > JARs or Directories > lib/
